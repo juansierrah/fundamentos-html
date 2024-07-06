@@ -1,0 +1,14 @@
+--------- relacionar proyecto a un repositorio--------
+git init
+pegar la url indicada en el proyecto
+git add .
+git commit --m "comentario"
+git push origin master
+----- clonar un repositorio----
+git clone url repositorio
+
+-----obtener los cambios del repositorio----
+git pull origin master (master es el nombre de la rama)
+
+------ ver en que rama estamos ubicados y cuales ramas existen -----
+git branch
